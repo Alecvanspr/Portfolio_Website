@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\website.csproj",
+  "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\website.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,83 +15619,88 @@
   "RootNamespace": "website",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Werkervaring\\KippieOrderpicker.cshtml",
-      "TargetPath": "Views\\Werkervaring\\KippieOrderpicker.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Werkervaring\\Index.cshtml",
-      "TargetPath": "Views\\Werkervaring\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Werkervaring\\Jumbo.cshtml",
-      "TargetPath": "Views\\Werkervaring\\Jumbo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Opleidingen\\MBO.cshtml",
-      "TargetPath": "Views\\Opleidingen\\MBO.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Opleidingen\\MAVO.cshtml",
-      "TargetPath": "Views\\Opleidingen\\MAVO.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Werkervaring\\KippieWinkelmedewerker.cshtml",
-      "TargetPath": "Views\\Werkervaring\\KippieWinkelmedewerker.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Opleidingen\\Index.cshtml",
-      "TargetPath": "Views\\Opleidingen\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Spotify\\Index.cshtml",
-      "TargetPath": "Views\\Spotify\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Spotify\\Index.cshtml",
+      "TargetPath": "Views\\Spotify\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Werkervaring\\Jumbo.cshtml",
+      "TargetPath": "Views\\Werkervaring\\Jumbo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Werkervaring\\Index.cshtml",
+      "TargetPath": "Views\\Werkervaring\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\alecv\\Desktop\\Eigen website\\Portfolio_Website\\Website\\Views\\Opleidingen\\HBO.cshtml",
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Werkervaring\\KippieOrderpicker.cshtml",
+      "TargetPath": "Views\\Werkervaring\\KippieOrderpicker.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Opleidingen\\MBO.cshtml",
+      "TargetPath": "Views\\Opleidingen\\MBO.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Opleidingen\\HBO.cshtml",
       "TargetPath": "Views\\Opleidingen\\HBO.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Shared\\_HomeLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_HomeLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Opleidingen\\Index.cshtml",
+      "TargetPath": "Views\\Opleidingen\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Opleidingen\\MAVO.cshtml",
+      "TargetPath": "Views\\Opleidingen\\MAVO.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Werkervaring\\KippieWinkelmedewerker.cshtml",
+      "TargetPath": "Views\\Werkervaring\\KippieWinkelmedewerker.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -9,29 +9,24 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm bg border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">website</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="nav navbar-collapse collapse d-sm-inline-flex justify-content-center">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Werkervaring" asp-action="Index">Werk ervaring</a>
+                            <a class="nav-link" asp-area="" asp-controller="Werkervaring" asp-action="Index">Werk ervaring</a>
+                        </li>
+                        <li class="nav-item yellow">
+                            <a class="nav-link yellow" asp-area="" asp-controller="Opleidingen" asp-action="Index">Opleidingen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Opleidingen" asp-action="Index">Opleidingen</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Hobby's</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Hobby's</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Spotify" asp-action="Index">Spotify</a>
+                            <a class="nav-link" asp-area="" asp-controller="Spotify" asp-action="Index">Spotify</a>
                         </li>
                     </ul>
                 </div>

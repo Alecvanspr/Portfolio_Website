@@ -1,8 +1,15 @@
 ﻿@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Welkom op mijn website. Dit dient als een soort van CV maar dan heb ik de meest gevoelige data er tussen uit gehaald. Daarnaast kan ik deze website ook upgraden met leuke uitprobeersels die ik heb gemaakt en waarvan ik dacht dat het leuk was om het op de website te gooien.</p>
+<div class="text-center align-middle">
+    <h1 class="display-4">Alec van Spronsen</h1>
+    <h2 class="h4">Welkom op mijn portfolio website, Wat wil je weten?</h2>
+    <div class="Buttons">
+        <a class="btn btn-outline-warning" style="color:black" asp-area="" asp-controller="Opleidingen" asp-action="Index">Opleidingen</a>
+        <a class="btn btn-outline-dark" asp-area="" asp-controller="Werkervaring" asp-action="Index">Werkervaringen</a>
+        <a class="btn btn-outline-warning" style="color:black" asp-area="" asp-controller="Home" asp-action="Index">Hobby's</a>
+        <a class="btn btn-outline-success" style="color:black" asp-area="" asp-controller="Spotify" asp-action="Index">Spotify</a>
+    </div>
 </div>

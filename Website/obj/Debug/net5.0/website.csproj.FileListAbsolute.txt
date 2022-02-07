@@ -87,3 +87,13 @@ C:\Users\alecv\Desktop\Eigen website\Portfolio_Website\Website\obj\Debug\net5.0\
 C:\Users\alecv\Desktop\Eigen website\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\MAVO.cshtml.g.cs
 C:\Users\alecv\Desktop\Eigen website\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\MBO.cshtml.g.cs
 C:\Users\alecv\Desktop\Eigen website\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Spotify\Index.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\HBO.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\Index.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\MAVO.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Opleidingen\MBO.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Spotify\Index.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\Index.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\Jumbo.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\KippieOrderpicker.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\KippieWinkelmedewerker.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
