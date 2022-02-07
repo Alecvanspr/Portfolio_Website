@@ -99,6 +99,7 @@ body {
   color: #000;
 }
 
+/*Dit is voor het lettertype wat gebruikt wordt op de sollicitatie paginas*/
 .show{
   border:solid red 1px;
 }
@@ -111,4 +112,11 @@ body {
 .gotham{
   font-family: "Gotham Black";
   font-style: italic;
+}
+/*Dit is voor de home page*/
+.homepage-body{
+  background-color: #ffe964;
+}
+.background-fade{
+  background-color: #FFFFFC50;
 }
