@@ -1,11 +1,31 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "animate.css/3.3.0": {
+        "type": "package"
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "animate.css/3.3.0": {
+      "sha512": "SV/HjKvA9bNI2vfluBbfQ7muLx+Uxz+CGQcInimDQ7wWrHDCxQ/a9w3MNYzgPuPP3jadkntSZD8Zow1ifGeEVg==",
+      "type": "package",
+      "path": "animate.css/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "animate.css.3.3.0.nupkg.sha512",
+        "animate.css.nuspec",
+        "content/Content/animate.css",
+        "content/Content/animate.min.css"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "animate.css >= 3.3.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\alecv\\.nuget\\packages\\": {}
@@ -43,6 +63,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "animate.css": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

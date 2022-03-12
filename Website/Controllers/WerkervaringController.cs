@@ -7,6 +7,9 @@ public class WerkervaringController : Controller
         {
             return View();
         }
+        public IActionResult Kippie(){
+            return View();
+        }
 
         public IActionResult KippieWinkelMedewerker(){
             return View();
