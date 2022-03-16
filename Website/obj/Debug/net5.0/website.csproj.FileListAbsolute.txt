@@ -99,3 +99,4 @@ C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\We
 C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
 C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Shared\WerkLayout.cshtml.g.cs
 C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\Kippie.cshtml.g.cs
+C:\Users\alecv\Desktop\Portfolio_Website\Website\obj\Debug\net5.0\Razor\Views\Werkervaring\YoungCapital.cshtml.g.cs

@@ -15699,6 +15699,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\Werkervaring\\YoungCapital.cshtml",
+      "TargetPath": "Views\\Werkervaring\\YoungCapital.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alecv\\Desktop\\Portfolio_Website\\Website\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

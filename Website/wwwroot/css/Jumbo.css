@@ -1,12 +1,12 @@
 *{
     font-family: "PathwayGothic","DMSans",sans-serif;
-    color:#171717;
+    color:#262626;
 }
-.kippieBlack{
-    color: #171717;
+.JumboZwart{
+    color: #262626;
 }
-.kippieGeel{
-    color: #ECD91A;
+.JumboGeel{
+    color: #fbc300;
 }
 .bedrijfsInfo{
     margin-top: 1.5rem;
@@ -40,7 +40,7 @@
 .foto{
     padding:0;
     margin:1rem;
-    max-width: 450px;
+    max-width: 500px;
     width: auto;
     border-radius: 2.5rem;
 }
