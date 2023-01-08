@@ -14,9 +14,13 @@ class JobViewSet(viewsets.ModelViewSet):
 class eduViewSet(viewsets.ModelViewSet):
     queryset = Education.objects.all()
     serializer_class = eduSerializer
+
     def get_queryset(self):
         return Education.objects.all()
 
 class certViewSet(viewsets.ModelViewSet):
     queryset = certificate.objects.all()
     serializer_class = certSerializer
+
+    def get_queryset(self):
+        return certificate.objects.all()

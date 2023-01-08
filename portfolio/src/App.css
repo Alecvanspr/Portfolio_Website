@@ -27,6 +27,28 @@
 .App-link {
   color: #61dafb;
 }
+.heroContainer{
+  display: inline-block;
+  height: 33%;
+  text-align: center;
+}
+.image-container {
+	bottom: -80px;
+  }
+.position-absolute {
+	position: absolute !important;
+  }
+  
+  .position-relative {
+	position: relative !important;
+  }
+.heroImage {
+  position: fixed;
+  top:0;
+  left: 0;
+	width: 100%;
+	max-width: 220px;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +58,4 @@
     transform: rotate(360deg);
   }
 }
+

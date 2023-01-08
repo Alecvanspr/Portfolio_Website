@@ -1,4 +1,5 @@
 from django.contrib import admin
+from .models import PersonalInfo, Job, Education, certificate
 
 # Register your models here.
 class PersonalInfoAdmin(admin.ModelAdmin):
@@ -32,3 +33,8 @@ class certificateAdmin(admin.ModelAdmin):
     ordering = ('title', 'description', 'date')
     filter_horizontal = ()
     list_per_page = 25
+
+admin.site.register(PersonalInfo, PersonalInfoAdmin)
+admin.site.register(Job, JobAdmin)
+admin.site.register(Education, EducationAdmin)
+admin.site.register(certificate, certificateAdmin)
