@@ -1,0 +1,37 @@
+.fixed-bg {
+    background-image: url("img/20220510_152502.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .profile-picture {
+    position: absolute;
+    margin-left:5rem;
+    margin-top:-10rem;
+    padding: 1px;
+    width: 400px;
+    height: 400px;
+
+    background: url('img/me.JPG');
+    border-radius: 40px;
+  }
+  .buffer{
+    padding:2px;
+    padding-left: 31rem;
+  }
+  
+  .dark-blue{
+    background-color: #003151;
+    font-family: gotham;
+    color:white;
+    width:100%;
+  }
+  .light-blue{
+    font-weight: 600;
+    font-size: large;
+    background-color: #53D8FB;
+    font-family: gotham;
+    width:100%;
+  }

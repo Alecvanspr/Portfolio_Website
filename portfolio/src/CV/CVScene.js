@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react';
 import {Container,Col, Row} from 'reactstrap'
-import Aboutme from './components/Aboutme';
+import Header from './containers/Header';
 import CVContainer from './containers/CVContainer'
 
 const CVScene = () => {
@@ -17,10 +17,7 @@ const CVScene = () => {
     },[])
     return (
         <>
-        <Aboutme/>
-            <Container>
-                <CVContainer />
-            </Container>
+            <Header/>
         </>
     )
 }

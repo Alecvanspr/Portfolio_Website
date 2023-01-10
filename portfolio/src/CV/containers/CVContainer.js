@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import Aboutme from "../components/Aboutme";
-import JobComponent from "../components/JobComponent";
 import axios from "axios";
 
 class CVContainer extends Component {
@@ -25,7 +23,6 @@ class CVContainer extends Component {
     const {jobs} = this.state
     return (
       <div className="mt-4">
-        {jobs.map((job)=> (<JobComponent job={job}/>))}
       </div>
     );
   }
